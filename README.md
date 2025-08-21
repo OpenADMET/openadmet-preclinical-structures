@@ -1,2 +1,2 @@
 # openadmet-preclinical-structures
-cif files for common ADMET anti-targets
+Cofolded structures for common ADMET anti-targets in preclinical species
