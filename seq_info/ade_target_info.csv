@@ -1,0 +1,73 @@
+species,gene_name,uniprot_id,fasta_accession,notes,,sequence identity
+human,ABCB1,P08183,NP_000918.2,Single human ABCB1 (MDR1/P-glycoprotein 1) gene; RefSeq NP_000918.2 is linked to UniProt P08183.,,100
+mouse,ABCB1,P21447,NP_035206.2,Mouse has Abcb1a and Abcb1b paralogs; this row uses Abcb1a (Mdr1a) with NP_035206.2 mapping to UniProt P21447.,,87.8125
+rat,ABCB1,Q9JK64,NP_596892.1,"Rat also has Abcb1a and Abcb1b; this row uses Abcb1a (NP_596892.1, UniProt Q9JK64). Abcb1b is an additional P-gp gene (NP_036755.2, UniProt P43245).",,85.625
+macaca fascicularis,ABCB1,Q8HZQ6,NP_001274251.1,Cynomolgus monkey ABCB1 ortholog; CreativeBiomart lists UniProt Q8HZQ6 with protein RefSeq NP_001274251.,,96.41465315666406
+macaca mulatta,ABCB1,Q8HZQ7,NP_001028059.1,Rhesus monkey ABCB1 ortholog; KEGG entry for gene 574235 links NP_001028059 to UniProt Q8HZQ7.,,96.18082618862041
+dog,ABCB1,Q4PLA8,NP_001003215.2,"Dog ABCB1 (MDR1) ortholog; NCBI Gene ID 403879 gives NP_001003215.2, which UniProt entry Q4PLA8 maps to ABCB1.",,91.2568306010929
+human,ABCG2,Q9UNQ0,NP_004818.2,BCRP; human ABCG2; UniProt reviewed (Swiss-Prot); NP_004818.2 is RefSeq isoform 1; multiple additional isoforms exist Wikipedia+2NCBI+2,,100
+mouse,ABCG2,Q7TMS5,NP_036050.1,Bcrp1; mouse Abcg2; UniProt reviewed entry Q7TMS5; RefSeq NP_036050.1 listed as Mus musculus Abcg2 in homology table hgw0.cse.ucsc.edu+1,,83.25722983257229
+rat,ABCG2,Q80W57,NP_852046.1,Rat Bcrp; UniProt Q80W57 annotated as Rattus norvegicus ABCG2; RefSeq NP_852046.1 listed as Abcg2 (rat) in homology table kazusa.or.jp+1,,82.80060882800609
+macaca mulatta,ABCG2,Q5MB13,,Rhesus ABCG2 ortholog; UniProt Q5MB13 annotated as Macaca mulatta ABCG2; only UniProt/XP_ entries located so NP_ RefSeq not identified in this search GlyCosmos+1,,96.6412213740458
+dog,ABCG2,B3RFJ1,NP_001041486.1,Dog ABCG2; UniProt B3RFJ1 annotated as Canis lupus familiaris Abcg2; GenScript and homology table list NP_001041486.1 as dog ABCG2 purl.uniprot.org+2rgd.mcw.edu+2,,84.27480916030534
+human,ABCB11,O95342,NP_003733.2,Reviewed UniProt; bile salt export pump (BSEP),,100
+mouse,ABCB11,Q9QY30,NP_066302.2,Reviewed UniProt; one of multiple RefSeq isoforms,,82.5889477668433
+rat,ABCB11,O70127,NP_113948.1,Reviewed UniProt; bile salt export pump (Bsep),,83.19454958364875
+macaca fascicularis,ABCB11,A0A2K5U2L0,,UniProt unreviewed (TrEMBL); RefSeq protein accession not clearly available,,96.51778955336866
+macaca mulatta,ABCB11,F6SYV4,,UniProt unreviewed (TrEMBL); RefSeq protein accession not clearly available,,96.90098261526833
+dog,ABCB11,B8K1W2,NP_001137404.1,RefSeq bile salt export pump; UniProt accession not clearly available,,89.81132075471699
+human,SLC22A1,O15245,NP_003048.1,Reviewed Swiss-Prot entry; multiple RefSeq isoforms reported for human SLC22A1.,,100
+mouse,SLC22A1,O08966,NP_033228.2,Reviewed Swiss-Prot entry; RefSeq NP_033228.2 corresponds to mouse Slc22a1.,,78.9568345323741
+rat,SLC22A1,Q63089,NP_036829.1,Reviewed Swiss-Prot entry; RefSeq NP_036829.1 corresponds to rat Slc22a1.,,79.13669064748201
+macaca fascicularis,SLC22A1,NA,XP_005551559.1,NCBI instead of Uniprot ID requires manual download,,94.22382671480143
+papio anubis,SLC22A1,A0A096NZW6,NA,"Homolog from a related species, as macaca mulatta protein not available.",,93.32129963898917
+human,SLC22A2,O15244,NP_003049,UniProt reviewed (Swiss-Prot); RefSeq protein NP_003049,,100
+mouse,SLC22A2,O70577,NP_038695,UniProt reviewed (Swiss-Prot); RefSeq protein NP_038695,,83.78378378378379
+rat,SLC22A2,Q9R0W2,NP_113772,UniProt reviewed (Swiss-Prot); RefSeq protein NP_113772,,82.88288288288288
+macaca fascicularis,SLC22A2,A0A7N9D8M1,,UniProt unreviewed (TrEMBL); RefSeq protein accession not clearly available / likely predicted isoforms only,,56.3963963963964
+macaca mulatta,SLC22A2,F6U468,,UniProt unreviewed; RefSeq protein accession not clearly available / predicted models (XP_/XM_),,91.35135135135135
+dog,SLC22A2,A0A8I3MNK2,,UniProt unreviewed (TrEMBL); RefSeq protein accession not clearly available,,85.22522522522522
+human,SLC22A6,Q4U2R8,NP_004781.2,Reviewed UniProt (Swiss-Prot); RefSeq protein OAT1slc.bioparadigms.org+1,,100
+mouse,SLC22A6,Q8VC69,NP_032792.2,Reviewed UniProt (Swiss-Prot); RefSeq protein for mouse Oat1uniprot.org+1,,84.01420959147424
+rat,SLC22A6,O35956,NP_058920.1,Reviewed UniProt (Swiss-Prot); RefSeq protein for rat Oat1uniprot.org+1,,86.50088809946715
+macaca fascicularis,SLC22A6,Q4W8A3,XM_005577529.4,Reviewed UniProt (Swiss-Prot); NCBI lists predicted mRNA only (no NP_/XP_ protein)uniprot.org+1,,94.84902309058614
+macaca mulatta,SLC22A6,F7GJJ2,AFJ70556.1,UniProt imported entry; protein_id for isoform b from DDBJ/NCBI (no NP_ RefSeq)uniprot.org+1,,94.84902309058614
+dog,SLC22A6,A0A8I3N270,XM_533258.6,UniProt unreviewed (TrEMBL); NCBI lists predicted mRNA (no NP_/XP_ protein)uniprot.org+1,,89.52042628774423
+human,ABCC1,P33527,NP_004987.2,multidrug resistance-associated protein 1 (MRP1); reviewed UniProt; RefSeq isoform 1,,100
+mouse,ABCC1,O35379,NP_032602,multidrug resistance-associated protein 1; reviewed UniProt; RefSeq NP_032602,,88.43892880470281
+rat,ABCC1,Q8CG09,NP_071617.2,multidrug resistance-associated protein 1; reviewed UniProt; RefSeq NP_071617.2,,87.79373368146214
+macaca mulatta,ABCC1,F7FA77,,unreviewed UniProt (TrEMBL) ABCC1 ortholog; RefSeq protein accession not identified in this pass,,96.8647942521228
+macaca fascicularis,ABCC1,Q864R9,,unreviewed UniProt (TrEMBL) ABCC1 ortholog; RefSeq protein accession not identified in this pass,,97.58327890267799
+dog,ABCC1,Q6UR05,NP_001002971.1,multidrug resistance-associated protein 1; UniProt ABCC1; RefSeq NP_001002971.1,,92.09666884389289
+human,SLC22A8,Q8TCC7,NP_004245.2,OAT3; UniProt reviewed; NP_004245.2 is the canonical RefSeq protein for human SLC22A8,,100
+mouse,SLC22A8,O88909,NP_112471.3,Oat3; UniProt reviewed; NP_112471.3 is mapped to mouse Slc22a8 (NM_031194.5),,78.59778597785979
+rat,SLC22A8,Q9R1U7,NP_112622.1,Oat3; UniProt reviewed; NP_112622.1 is mapped to rat Slc22a8 (NM_031332.1),,79.70479704797047
+macaca fascicularis,SLC22A8,Q4W8A2,,OAT3; UniProt reviewed entry for cynomolgus SLC22A8; I did not find a curated RefSeq NP_ accession in this pass,,96.30996309963099
+macaca mulatta,SLC22A8,F7GJL4,NP_001181622.1,Rhesus SLC22A8; antibody and ortholog databases list F7GJL4 with RefSeq NP_001181622.1,,96.30996309963099
+dog,SLC22A8,C9EGT7,XP_005631652.2,"Predicted dog SLC22A8/OAT3 protein; XP_005631652.2 is a RefSeq XP_ model; a clear UniProt accession was not retrievable without ambiguity, so left blank",,32.80346820809248
+human,SLCO1B1,Q9Y6L6,NP_006437.3,Reviewed human OATP1B1,,100
+mouse,SLCO1B1,Q9JJL3,NP_065241.1,Rodent Oatp1b2 is the functional ortholog of human OATP1B1/1B3,,67.8726483357453
+rat,SLCO1B1,Q9QZX8,NP_113838.1,Rat Oatp1b2 is the functional ortholog of human OATP1B1/1B3,,66.57018813314038
+macaca fascicularis,SLCO1B1,L7TEQ7,NP_001271469.1,Cynomolgus monkey SLCO1B1,,92.32995658465991
+macaca mulatta,SLCO1B1,F6UHW9,,Rhesus macaque SLCO1B1; RefSeq protein accession not retrieved here,,75.39797395079594
+dog,SLCO1B4,C9EGT7,,Dog Oatp1b4 is the closest functional ortholog to human OATP1B1/1B3; specific accessions not provided here,,72.25433526011561
+human,SLCO1B4,Q9Y6L6,NP_006437.3,Reviewed human SLCO1B1 (OATP1B1) transporter.Wikipedia; repeated for similarity score,,100
+human,SLCO1B2,Q9Y6L6,NP_006437.3,Reviewed human SLCO1B1 (OATP1B1) transporter.Wikipedia; repeated for similarity score,,100
+mouse,SLCO1B2,Q9JJL3,NP_065241.1,Mouse ortholog Slco1b2; RefSeq NP_065241.1 corresponds to NM_020495.x.uniprot.org+1,,67.8726483357453
+rat,SLCO1B2,Q9QZX8,NP_113838.1,Rat ortholog Slco1b2 (also known as Oatp4/Slco1b3); NP_113838.1 linked to NM_031650.3.Thermo Fisher Scientific+1,,66.57018813314038
+dog,SLCO1B2,A0A8I3NUI6,,Dog SLCO1B2 (unreviewed OATP1B2) appears in orthology/annotation resources as an OATP1B-family ortholog; RefSeq NP_ accession not clearly identified here.alpha.glycosmos.org+2Bgee+2,,72.15007215007215
+human,SLC47A1,Q96FL8,NP_060712.2,human MATE1 reviewed UniProt entry,,100
+mouse,SLC47A1,Q8K0H1,NP_080459.2,mouse MATE1 reviewed UniProt entry,,79.47368421052632
+rat,SLC47A1,Q5I0E9,NP_001014140.1,rat MATE1 reviewed UniProt entry,,80.17543859649123
+papio anubis,SLC47A1,A0A2I3N8U0,,Ortholog from closest relative of macaca fascicularis and macaca mulattat,,91.78082191780823
+human,SLC47A2,Q86VL8,NP_001093116.1,reviewed UniProt; human MATE2-K isoform 2,,100
+mouse,SLC47A2,Q3V050,NP_001028714.1,reviewed UniProt; mouse ortholog,,52.823920265780735
+rat,SLC47A2,D4A4W2,NP_001178849.1,unreviewed UniProt; rat ortholog,,49.00332225913621
+macaca_fascicularis,SLC47A2,A0A2K5WPR1,NM_001319593.1,unreviewed UniProt; RefSeq mRNA only (protein XP_ accession not retrieved here),,88.03986710963456
+dog,SLC47A2,A0A8I3NVU1,XP_038392967.1,unreviewed UniProt; predicted RefSeq protein isoform X1,,73.14662273476112
+Human,ALB,P02768,NP_000468.1,,,100.0
+Mouse,ALB,P07724,,,,73.72742200328408
+Rat,ALB,P02770,,,,74.8768472906404
+Macaca fascicularis,ALB,A2V9Z4,,,,93.43185550082102
+Macaca mulatta,ALB,Q28522,,,,92.11822660098522
+Dog,ALB,P49822,,,,80.95238095238095
